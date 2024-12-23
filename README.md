@@ -18,6 +18,7 @@
 
 ## Standups
 - Plastic Love：姐妹们，这个是我喜欢+推荐的一些female comedian名字，除了个别人我不太确定，但绝大多数在网上都可以找到她们的专场~ Whitney Cummings, Nikki Glaser, Jiaoying（梁娇颖），Taylor Tomlinson, Margaret Cho, Atsuko Okatsuka, Ali Wong, Katherine Ryan, Sarah Silverman, Fortune Feimster, Hannah Gadsby, Iliza Shlesinger, Michelle Wolf
+- 香山：Hanah Gatsby，Daniel Sloss
 
 ## Movies
 - Plastic Love：歇斯底里Hysterical（2021）
