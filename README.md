@@ -15,6 +15,7 @@
 - 老盖蒂。：《单向度的人》《法兰克福学派》《新异化的诞生》
 - ？：《现代性的性别》
 - 香山：《《我在废土世界扫垃圾》《祝姑娘今天掉坑了吗》《海男之家女人的衣柜》《劳特利奇马克思主义政治经济学手册》
+- 科莫多火龙果补光灯:《黑暗时代的人们》《人的境况》
 
 ## Standups
 - Plastic Love：姐妹们，这个是我喜欢+推荐的一些female comedian名字，除了个别人我不太确定，但绝大多数在网上都可以找到她们的专场~ Whitney Cummings, Nikki Glaser, Jiaoying（梁娇颖），Taylor Tomlinson, Margaret Cho, Atsuko Okatsuka, Ali Wong, Katherine Ryan, Sarah Silverman, Fortune Feimster, Hannah Gadsby, Iliza Shlesinger, Michelle Wolf
