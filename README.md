@@ -8,13 +8,33 @@
   
 ## Books
 - 泡饭：[《破碎的星球》](https://book.douban.com/subject/27605897/)
-- D-503：《失去一切的人》《黑暗的左手》
-- LUV～：蓝佩嘉老师（一位社会学学者，著作《跨国灰姑娘》研究从东南亚到台湾的女性家务移工）的个人网站资源很丰富，她的课程大纲都是公开的，而且应该不需翻墙！https://homepage.ntu.edu.tw/~pclan/
-- 阿冰：《多谢不阅》《疼痛部》
-- Matsuri_宴：《Labor of Love, Labor of Sorrow》
-- 老盖蒂。：《单向度的人》《法兰克福学派》《新异化的诞生》
-- ？：《现代性的性别》
-- 香山：《我在废土世界扫垃圾》《祝姑娘今天掉坑了吗》《海男之家女人的衣柜》《劳特利奇马克思主义政治经济学手册》《她的心脏急性衰竭了》
+- D-503：[《失去一切的人》](https://book.douban.com/subject/26833398/)《黑暗的左手》(https://book.douban.com/subject/26916012/)
+- LUV～：蓝佩嘉老师（一位社会学学者，著作[《跨国灰姑娘》](https://homepage.ntu.edu.tw/~pclan/)研究从东南亚到台湾的女性家务移工）的个人网站资源很丰富，她的课程大纲都是公开的，而且应该不需翻墙！https://homepage.ntu.edu.tw/~pclan/
+
+
+- 阿冰：
+  - [《多谢不阅》](https://book.douban.com/subject/36539569/）
+  - [《疼痛部》](https://book.douban.com/subject/36206462/)
+
+- Matsuri_宴：
+  - [《Labor of Love, Labor of Sorrow》](https://book.douban.com/subject/5960991/））
+
+- 老盖蒂。：
+  - [《单向度的人》](https://book.douban.com/subject/26935185/)
+  - [《法兰克福学派》](https://book.douban.com/subject/4742975/)
+  - [《新异化的诞生》](https://book.douban.com/subject/26916012/)
+
+- ？：
+  - [《现代性的性别》](https://book.douban.com/subject/34997254/)
+
+- 香山：
+  - 《我在废土世界扫垃圾》
+  - [《祝姑娘今天掉坑了没》](https://book.douban.com/subject/36989959/)
+  - [《海男之家女人的衣柜》](https://book.douban.com/subject/36428304/)
+  - [《劳特利奇马克思主义政治经济学手册》](https://book.douban.com/subject/36336151/)
+  - 《她的心脏急性衰竭了》
+
+
 - 科莫多火龙果补光灯:[《黑暗时代的人们》](https://book.douban.com/subject/36724326/) [《人的境况》](https://book.douban.com/subject/26974841/)
 - 2777：[《一个人的战争》](https://book.douban.com/subject/37107555/)
 - Dolce far niente：[《鲛在水中央》](https://book.douban.com/subject/33406036/)
